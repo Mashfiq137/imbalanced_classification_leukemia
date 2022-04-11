@@ -1,6 +1,6 @@
 # Quantifying imbalanced classification methods for leukemia detection 
 
-This codebase is part of supplementary materials of our paper *"Quantifying imbalanced classification methods for leukemia detection"*
+This codebase is part of supplementary materials of our paper *"__Quantifying imbalanced classification methods for leukemia detection__"*
 ***
 ## Authors: 
 Deponker Sarker Depto, Md. Mashfiq Rizvee, Aimon Rahman, Hasib Zunair, M Sohel Rahman and M.R.C. Mahdy
