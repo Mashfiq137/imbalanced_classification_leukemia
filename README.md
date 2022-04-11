@@ -1,11 +1,14 @@
-# Quantifying imbalanced classification methods for leukemia detection
+# Quantifying imbalanced classification methods for leukemia detection 
 
 This codebase is part of supplementary materials of our paper *"Quantifying imbalanced classification methods for leukemia detection"*
-Authors: Deponker Sarker Depto, Md. Mashfiq Rizvee, Aimon Rahman, Hasib Zunair, M Sohel Rahman and M.R.C. Mahdy
+***
+## Authors: 
+Deponker Sarker Depto, Md. Mashfiq Rizvee, Aimon Rahman, Hasib Zunair, M Sohel Rahman and M.R.C. Mahdy
 
-**Short Description:** Leukemia is a cancer of the body's blood-forming tissues, including the bone marrow and the lymphatic system. There's a good chance of survival if leukemia is detected early. But imbalance is a crucial issue in medical imaging and diagonosis results of leukemia by CAD systems becomes often skewed. Through our effort we have tried to alleviate the imbalance class problem for leukemia detection.
+## Short Description: 
+Leukemia is a cancer of the body's blood-forming tissues, including the bone marrow and the lymphatic system. There's a good chance of survival if leukemia is detected early. But imbalance is a crucial issue in medical imaging and diagonosis results of leukemia by CAD systems becomes often skewed. Through our effort we have tried to alleviate the imbalance class problem for leukemia detection.
 
-![Classified and misclassified samples](media/New Project.png)
+<img src="media/New Project.png" width="">
 Figure: We have presented classified and misclassified samples and their corresponding superimposed feature maps from best models to input images.
 
 ## Citation
